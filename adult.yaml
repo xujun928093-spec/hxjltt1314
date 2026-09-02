@@ -13,7 +13,8 @@ payload:
   - DOMAIN-SUFFIX,sexlikereal.com
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,huangguoai.com
-
+  - DOMAIN-SUFFIX,xindongcm.com
+  - DOMAIN-SUFFIX,kqygme.frmdvopen.cc
 
   - DOMAIN-SUFFIX,hjd2048.com
   - DOMAIN-SUFFIX,haijiao.com
@@ -31,7 +32,9 @@ payload:
   - DOMAIN-KEYWORD,redtube
   - DOMAIN-KEYWORD,sehuatang
   - DOMAIN-KEYWORD,huangguoai
-
+  - DOMAIN-KEYWORD,xindongcm
+  - DOMAIN-KEYWORD,kqygme
+  
 
 
 
